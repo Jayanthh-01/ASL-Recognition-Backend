@@ -1,0 +1,7 @@
+# Python backend ignores
+env/
+__pycache__/
+*.pyc
+*.pyo
+temp_video.mp4
+.DS_Store  # For macOS
